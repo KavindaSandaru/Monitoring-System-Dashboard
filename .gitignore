@@ -1,0 +1,12 @@
+# Python
+backend/monitoring-system/.venv/
+backend/monitoring-system/__pycache__/
+backend/monitoring-system/monitoring.db
+
+# Next.js
+frontend/monitoring-dashboard/node_modules/
+frontend/monitoring-dashboard/.next/
+
+# Environment files
+.env
+.env.local

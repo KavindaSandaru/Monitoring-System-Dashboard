@@ -474,4 +474,4 @@ Add CORSMiddleware in FastAPI.
 
 # Author
 
-TDeveloped by Kavinda Sandaru
+Developed by Kavinda Sandaru

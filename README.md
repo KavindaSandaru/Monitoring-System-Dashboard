@@ -472,8 +472,6 @@ Frontend and backend are different origins.
 
 Add CORSMiddleware in FastAPI.
 
----
+# Author
 
-# License
-
-This project is for educational and portfolio purposes.
+TDeveloped by Kavinda Sandaru
